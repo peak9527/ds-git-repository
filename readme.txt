@@ -1,2 +1,2 @@
-daishuang@tsari.tsinghua.edu.cn
-123123aA
+Git is a distributed version control system.
+Git is free software.
